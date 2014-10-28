@@ -21,7 +21,7 @@ unit Unit1;
 // to do: needs to be tested/implemented in this demo form
 
 { todo:
-- rework as package
+- rework as lpk package
 - doubleclick in sort cell sorts asc/desc/none not only rightclick
 - reinstate registering engines such as sqldb, zeos, ibx so package requirements
   can be easily specified
